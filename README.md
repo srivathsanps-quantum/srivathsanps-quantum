@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srivathsan Poyyapakkam Sundar and my username is @srivathsanps-quantum
 - 👀 I’m interested in developing quantum algorithms for chemistry applications
-- 🌱 I’m currently learning to code variational quantum eigensolver and phase estimation algorithm
+- 🌱 I’m currently working on VQE and QSE models. 
 - 💞️ I’m looking to collaborate with people interested in quantum chemistry and computing
 - 📫 You can reach me out on my Linkedin Profile "https://www.linkedin.com/in/srivathsan-poyyapakkam-sundar-50545534/"
 
